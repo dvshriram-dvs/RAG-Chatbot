@@ -11,6 +11,7 @@
 A Retrieval-Augmented Generation (RAG) chatbot that answers questions from uploaded PDF documents using **Google Gemini**, **LangChain**, and **ChromaDB**. Instead of relying only on the language model, the chatbot retrieves relevant information from the uploaded documents before generating responses, resulting in more accurate and context-aware answers.
 
 Author: D V Shriram
+
 Registration No: 23MIM10044
 
 ---
